@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">オートタップ</string>
+    <string name="service_label">オートタップ</string>
+    <string name="service_description">画面上の指定した位置を一定間隔で自動タップします。画面の内容を読み取ったり送信したりはしません。</string>
+    <string name="howto">使い方\n1. 下でタップ間隔を設定して「保存」\n2. 「ユーザー補助設定を開く」→「オートタップ」をオンにする\n3. 画面に赤い照準とコントロールパネルが表示されます\n4. 照準をドラッグしてタップしたい位置に置く\n5. パネルの「開始」で自動タップ、「停止」で止まります\n\n使い終わったらユーザー補助設定でオフにすると照準が消えます。</string>
+    <string name="interval_label">タップ間隔（ミリ秒、1000 = 1秒）</string>
+    <string name="save">保存</string>
+    <string name="open_settings">ユーザー補助設定を開く</string>
+    <string name="status_on">状態: 有効（照準が表示されています）</string>
+    <string name="status_off">状態: 無効（ユーザー補助設定でオンにしてください）</string>
+    <string name="start">開始</string>
+    <string name="stop">停止</string>
+</resources>
